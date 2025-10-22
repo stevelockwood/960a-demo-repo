@@ -1,1 +1,2 @@
-# 960a-demo-repo
+# eventsappstart
+This is a simple events app
